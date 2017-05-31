@@ -1,0 +1,33 @@
+Apps
+Authorize
+
+OAuth
+
+Sample utterences
+	Whats in my google drive
+	open my google drive
+	What are the files in google drive
+	What are my files
+	list my files in drive
+	list my files in google drive
+	list files
+	
+Scopes
+
+
+Authorization URLs
+
+
+Access Token
+
+
+client
+
+438055399976-glo98ora048b9r2lot0bq6abjujak61g.apps.googleusercontent.com
+
+Secret
+7P4Hj5rpzZ0jVHDlq1AjeiaV
+
+
+
+	

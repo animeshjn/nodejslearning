@@ -1,0 +1,16 @@
+Following are the available ways with which we can read our books
+These are the already available alexa services(Pre enabled skills)
+1. Kindle
+	
+2. Audible
+
+These will work irrespective of an application availability on device. (These will be linked with the amazon account).
+
+So we might consider converting our accessible books to above two formats or, Alternately we need to create another service writing entire code that can read the books, flip pages, change chapters etc. Since I did not had a device to check which ones already work 
+
+
+Create Own PDF parser That can distribute into chapters
+
+Create a perser that can divide text into chapters
+
+
